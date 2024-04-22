@@ -1,6 +1,6 @@
 # Codsoft Repository
 
-This repository contains the projects completed during my internship at [Company Name]. The projects included in this repository are:
+This repository contains the projects completed during my internship at CodSoft. The projects included in this repository are:
 
 ## Projects
 
