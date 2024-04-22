@@ -7,12 +7,9 @@ This repository contains the projects completed during my internship at CodSoft.
 ### 1. Tribute Page
 - Description: A tribute page dedicated to [person's name], created as part of Level 2 internship project.
 - Technologies Used: HTML, CSS
-- Preview: [Link to live preview or screenshots]
 
 ### 2. Job Board
 - Description: A job board platform designed to connect job seekers with employers, created as part of Level 2 internship project.
-- Technologies Used: [List of technologies/frameworks/libraries used]
-- Preview: [Link to live preview or screenshots]
 
 ## Installation
 
